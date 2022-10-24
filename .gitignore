@@ -17,6 +17,9 @@ build/
 *.iml
 *.ipr
 out/
+/idea/
+.idea/
+/.idea
 
 ### NetBeans ###
 /nbproject/private/
@@ -41,3 +44,5 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+!app-ibank.jar
+!artifacts/app-ibank.jar
